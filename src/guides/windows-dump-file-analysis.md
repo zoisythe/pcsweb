@@ -6,6 +6,7 @@ icon: desktop
 date: 2026-09-01
 category: 教程
 tag:
+  - Windows
   - 蓝屏
 order: 10
 ---
